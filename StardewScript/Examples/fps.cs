@@ -34,11 +34,6 @@ public class FpsCounter : Script
 	/// </summary>
 	private DateTime _lastFPSUpdate = DateTime.UtcNow;
 
-	protected override void InitializeScript()
-	{
-		base.InitializeScript();
-	}
-
 	protected override void OnRendered(object sender, RenderedEventArgs e)
 	{
 		var millisecondsSinceLastCall = DateTime.UtcNow.Subtract(_lastRenderingCall).TotalMilliseconds;

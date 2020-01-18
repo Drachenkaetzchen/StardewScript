@@ -161,6 +161,7 @@
     </Content>
     <Compile Include="Framework\IScript.cs" />
     <Compile Include="Framework\Script.cs" />
+    <Compile Include="Framework\Script.Overridables.cs" />
     <Compile Include="ModEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
