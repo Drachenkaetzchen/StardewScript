@@ -14,6 +14,7 @@ Only tested on Win10 with installed .NET SDKs.
 - Automatic unloading of a script throwing an exception in a event handler
 - Almost all SMAPI events supported
 - Intellisense/Auto-Completion support for many editors thanks to CS-Script
+- Supports C# 7.0
 
 # Use Cases
 - For code which is way too small for a mod (like the FPS counter example)

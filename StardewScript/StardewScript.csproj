@@ -163,8 +163,6 @@
     <Compile Include="Framework\Script.cs" />
     <Compile Include="ModEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Content Include="LICENSE" />
-    <Content Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
