@@ -4,8 +4,10 @@ This is an experimental mod to provide scripting for Stardew Valley.
 It uses [CS-Script](https://www.cs-script.net/) as the scripting engine.
 
 Think of StardewScript as sized down mods which can be loaded and
-unloaded while the game is running.
+unloaded while the game is running. You can do almost anything you could
+do with a mod, with the same APIs.
 
+See the [FPS Counter Example](StardewScript/Examples/fps.cs)
 # Experimental!
 
 This is a very experimental mod. Things can change, things can break.
