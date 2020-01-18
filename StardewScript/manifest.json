@@ -1,0 +1,10 @@
+{
+  "Name": "StardewScript",
+  "Author": "Drachenkatze",
+  "Version": "1.0.0",
+  "Description": "Adds a scripting engine for developers to test things",
+  "UniqueID": "Drachenkatze.StardewScript",
+  "EntryDll": "StardewScript.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
